@@ -1,1 +1,2 @@
 added a new feature in master branch
+This is a new feature
